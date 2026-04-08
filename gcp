@@ -1,0 +1,4 @@
+Google Cloud Platform (GCP) provides a suite of modular cloud services for computing, data storage, analytics, and machine learning, running on Google’s infrastructure. 
+Key services include Compute Engine (VMs), GKE (Kubernetes), BigQuery (Data Warehouse), and Vertex AI.
+Compute Engine (VMs), GKE (Kubernetes), BigQuery (Data Warehouse), and Vertex AI. It supports IaaS, PaaS, and serverless computing models.
+
